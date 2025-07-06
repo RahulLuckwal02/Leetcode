@@ -1,3 +1,6 @@
+// 3330. Find the Original Typed String I
+
+
 class Solution {
 public:
     int possibleStringCount(string word) {
