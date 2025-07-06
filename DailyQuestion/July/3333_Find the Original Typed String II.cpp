@@ -1,7 +1,6 @@
 // 3333. Find the Original Typed String II
 
 
-
 class Solution {
 public:
     int M = 1e9+7;
